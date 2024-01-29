@@ -9,7 +9,7 @@ This repository contains all five tasks for the Data Science Internship at Oasis
 
 Objective: Develop a machine learning model to classify iris flowers into three species: setosa, versicolor, and virginica based on their measurements.
 
-Implementation:Out of all models, Logistic Regression was selected for classification, achieving an accuracy of 97.37%.
+Implementation: Out of all models, Logistic Regression was selected for classification, achieving an accuracy of 97.37%.
 
 Dataset: https://www.kaggle.com/datasets/saurabh00007/iriscsv
 
