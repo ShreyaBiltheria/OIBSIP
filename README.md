@@ -5,7 +5,7 @@ This repository contains all five tasks for the Data Science Internship at Oasis
 
 ## Batch - January Phase 1 AICTE OIB-SIP 2024.
 
-###Task 1-Iris Flower Classification:
+### Task 1-Iris Flower Classification:
 
 Objective: Develop a machine learning model to classify iris flowers into three species: setosa, versicolor, and virginica based on their measurements.
 
@@ -13,7 +13,7 @@ Implementation:Out of all models, Logistic Regression was selected for classific
 
 Dataset: https://www.kaggle.com/datasets/saurabh00007/iriscsv
 
-###Task 2-Unemployment Analysis with Python:
+### Task 2-Unemployment Analysis with Python:
 
 Objective: Analyze the impact of Covid-19 on unemployment rates using Python and data visualization techniques.
 
@@ -25,7 +25,7 @@ Insights: Identified regional disparities, correlations, and temporal trends in 
 
 Dataset: https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
 
-###Task 3-Car Price Prediction with Machine Learning:
+### Task 3-Car Price Prediction with Machine Learning:
 
 Objective: Understand the dataset through comprehensive Data Visualization and Exploration.
 
@@ -35,7 +35,7 @@ Insights: Derived key insights about car pricing factors, serving as a foundatio
 
 Dataset: https://www.kaggle.com/datasets/ngawangchoeda/car-price-dataset
 
-###Task 4-Email Spam Detection with Machine Learning:
+### Task 4-Email Spam Detection with Machine Learning:
 
 Objective: Build an email spam detector using Multinomial Naive Bayes and Logistic Regression algorithms.
 
@@ -45,7 +45,7 @@ Impact: Enhanced email security and reduced unwanted messages.
 
 Dataset: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
-###Task 5-Sales Prediction Using Python:
+### Task 5-Sales Prediction Using Python:
 
 Objective: Predict product sales based on advertising expenditure and target audience segmentation.
 
