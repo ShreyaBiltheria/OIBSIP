@@ -1,9 +1,9 @@
 # OIBSIP
 This repository contains all five tasks for the Data Science Internship at Oasis Infobyte.
 
-##NAME: SHREYA BILTHERIA
+## NAME: SHREYA BILTHERIA
 
-##Batch - January Phase 1 AICTE OIB-SIP 2024.
+## Batch - January Phase 1 AICTE OIB-SIP 2024.
 
 1. Iris Flower Classification:
 Objective: Develop a machine learning model to classify iris flowers into three species: setosa, versicolor, and virginica based on their measurements.
