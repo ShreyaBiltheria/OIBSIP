@@ -33,7 +33,7 @@ Approach: Utilized various charts and graphs to uncover patterns and relationshi
 
 Insights: Derived key insights about car pricing factors, serving as a foundation for subsequent analyses.
 
-Dataset: https://www.kaggle.com/datasets/ngawangchoeda/car-price-dataset
+Dataset: https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars
 
 ### Task 4-Email Spam Detection with Machine Learning:
 
